@@ -36,10 +36,7 @@
 /* Begin PBXFileReference section */
 		5F13A89C1C835674004B4B23 /* 泽乾新浪微博.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "泽乾新浪微博.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F13A89F1C835674004B4B23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5F13A8A11C835674004B4B23 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5F13A8A41C835674004B4B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5F13A8A61C835674004B4B23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5F13A8A91C835674004B4B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F13A8AB1C835674004B4B23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F13A8B01C835674004B4B23 /* 泽乾新浪微博Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "泽乾新浪微博Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F13A8B41C835674004B4B23 /* ______Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "______Tests.swift"; sourceTree = "<group>"; };
@@ -98,10 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				5F13A89F1C835674004B4B23 /* AppDelegate.swift */,
-				5F13A8A11C835674004B4B23 /* ViewController.swift */,
-				5F13A8A31C835674004B4B23 /* Main.storyboard */,
 				5F13A8A61C835674004B4B23 /* Assets.xcassets */,
-				5F13A8A81C835674004B4B23 /* LaunchScreen.storyboard */,
 				5F13A8AB1C835674004B4B23 /* Info.plist */,
 			);
 			path = "泽乾新浪微博";
@@ -232,9 +226,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F13A8AA1C835674004B4B23 /* LaunchScreen.storyboard in Resources */,
 				5F13A8A71C835674004B4B23 /* Assets.xcassets in Resources */,
-				5F13A8A51C835674004B4B23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
