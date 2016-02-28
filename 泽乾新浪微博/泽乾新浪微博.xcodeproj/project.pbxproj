@@ -251,7 +251,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F13A8A21C835674004B4B23 /* ViewController.swift in Sources */,
 				5F13A8A01C835674004B4B23 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,25 +285,6 @@
 			targetProxy = 5F13A8BC1C835674004B4B23 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		5F13A8A31C835674004B4B23 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5F13A8A41C835674004B4B23 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5F13A8A81C835674004B4B23 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5F13A8A91C835674004B4B23 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5F13A8C21C835674004B4B23 /* Debug */ = {
